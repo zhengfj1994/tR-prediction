@@ -1,3 +1,3 @@
 <h1 align="center">
-Supplementary information of MeTEA
+Retention time prediction in MetEx
 </h1>
